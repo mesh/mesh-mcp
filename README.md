@@ -1,4 +1,7 @@
-<a href="https://clay.earth"><img src="https://assets.clay.earth/emails/assets/logo_badge.png" alt="Clay Logo" width="70"/></a>
+<a href="https://me.sh">
+<img width="70" height="70" alt="mesh-icon" src="https://github.com/user-attachments/assets/28576d9d-4805-41ed-83ec-513d28dcffe4" />
+</a>
+
 
 # Mesh MCP Server
 
