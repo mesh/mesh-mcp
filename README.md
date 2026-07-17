@@ -47,4 +47,4 @@ Tell your favorite agent or bot to connect https://mcp.me.sh/mcp via OAuth.
 - "What meetings do I have scheduled for tomorrow?"
 
 ## More information
-Learn more and reach out at the [Clay Library](https://library.clay.earth).
+Learn more and reach out at the [Mesh Library](https://library.me.sh).
