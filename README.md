@@ -16,7 +16,7 @@ A simple Model Context Protocol (MCP) server for [Mesh](https://me.sh).
 1. Visit Settings > Integrations > MCP Server for one-click connections to ChatGPT, Claude, and Smithery. 
 2. Followed the guided login flow to connect your account.
 
-<img width="936" height="926" alt="CleanShot 2026-07-17 at 09 53 29@2x" src="https://github.com/user-attachments/assets/a3761b3c-6fac-4c3b-a4df-d3c1b2f51148" />
+<img width="400" alt="CleanShot 2026-07-17 at 09 53 29@2x" src="https://github.com/user-attachments/assets/a3761b3c-6fac-4c3b-a4df-d3c1b2f51148" />
 
 ### Custom 
 Tell your favorite agent or bot to connect https://mcp.me.sh/mcp via OAuth.
